@@ -1,1 +1,7 @@
-Custom load animation for Chris Banes Android-PullToRefresh library.
+Custom load animation for Chris Banes Android-PullToRefresh library, using an AnimationDrawable with an ImageView.
+
+android-customptr/ptr_library/ -- is the modified library
+android-customptr/MshrmCldPtr/ -- is the sample activity
+
+note: Includes Eclipse .project files, and in each of the obove directories: /bin/ has generated .jars and .apks
+
